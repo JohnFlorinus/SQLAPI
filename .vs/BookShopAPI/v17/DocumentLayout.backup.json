@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FE76EE-E5C2-4BFF-B83C-65D21A1CA4C6}|BookShopAPI\\BookShopAPI.csproj|c:\\users\\mohammed\\desktop\\repos\\sqlapi\\bookshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4FE76EE-E5C2-4BFF-B83C-65D21A1CA4C6}|BookShopAPI\\BookShopAPI.csproj|solutionrelative:bookshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FE76EE-E5C2-4BFF-B83C-65D21A1CA4C6}|BookShopAPI\\BookShopAPI.csproj|c:\\users\\mohammed\\desktop\\repos\\sqlapi\\bookshopapi\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FE76EE-E5C2-4BFF-B83C-65D21A1CA4C6}|BookShopAPI\\BookShopAPI.csproj|solutionrelative:bookshopapi\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FE76EE-E5C2-4BFF-B83C-65D21A1CA4C6}|BookShopAPI\\BookShopAPI.csproj|c:\\users\\mohammed\\desktop\\repos\\sqlapi\\bookshopapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FE76EE-E5C2-4BFF-B83C-65D21A1CA4C6}|BookShopAPI\\BookShopAPI.csproj|solutionrelative:bookshopapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FE76EE-E5C2-4BFF-B83C-65D21A1CA4C6}|BookShopAPI\\BookShopAPI.csproj|c:\\users\\mohammed\\desktop\\repos\\sqlapi\\bookshopapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FE76EE-E5C2-4BFF-B83C-65D21A1CA4C6}|BookShopAPI\\BookShopAPI.csproj|solutionrelative:bookshopapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FE76EE-E5C2-4BFF-B83C-65D21A1CA4C6}|BookShopAPI\\BookShopAPI.csproj|c:\\users\\mohammed\\desktop\\repos\\sqlapi\\bookshopapi\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FE76EE-E5C2-4BFF-B83C-65D21A1CA4C6}|BookShopAPI\\BookShopAPI.csproj|solutionrelative:bookshopapi\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FE76EE-E5C2-4BFF-B83C-65D21A1CA4C6}|BookShopAPI\\BookShopAPI.csproj|c:\\users\\mohammed\\desktop\\repos\\sqlapi\\bookshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FE76EE-E5C2-4BFF-B83C-65D21A1CA4C6}|BookShopAPI\\BookShopAPI.csproj|solutionrelative:bookshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\BookShopAPI\\Context\\DBContext.cs",
+              "RelativeDocumentMoniker": "BookShopAPI\\Context\\DBContext.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\BookShopAPI\\Context\\DBContext.cs",
+              "RelativeToolTip": "BookShopAPI\\Context\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:22:14.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\BookShopAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BookShopAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\BookShopAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BookShopAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:21:35.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\BookShopAPI\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BookShopAPI\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\BookShopAPI\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "BookShopAPI\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:21:23.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\BookShopAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BookShopAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\BookShopAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BookShopAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:20:58.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\BookShopAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BookShopAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\BookShopAPI\\appsettings.json",
+              "RelativeToolTip": "BookShopAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T18:20:41.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\BookShopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookShopAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\SQLAPI\\BookShopAPI\\Program.cs",
+              "RelativeToolTip": "BookShopAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:20:39.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
