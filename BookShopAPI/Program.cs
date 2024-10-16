@@ -19,7 +19,6 @@ namespace BookShopAPI
                 options.AddPolicy(name: allCORS,
                                   policy =>
                                   {
-                                      //policy.WithOrigins("file:///C:/Users/mohammed/Desktop/repos/skola/BookAPI_FRONTEND/index.html");
                                       policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
                                   });
             });
